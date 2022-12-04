@@ -1,5 +1,5 @@
 ---
-title: "This is an exemplary article for the blog."
+title: "Trying to get this working"
 description: "This description will be used for the article listing and search results on Google."
 date: "2021-05-28"
 banner:
