@@ -3,12 +3,9 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Caution. These lines are probably out of date by the time you read them. Just like the topics in my blog. Why I wrote about you? Two reasons either I was so interested in something that I wanted to write about it OR I was just bored and out of frustration I had no other idea than to write something here.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+What remains is me, Florian Handke. Originally I did an apprenticeship as a precision mechanic, then studied production engineering in Bachelor and Master. After a long time of being mechanical, today a lot is digital. I program in R, Python, dart and if necessary also in Bash and if completely necessary also some websites.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Otherwise I like to be in the world of mechanical engineering and automation: processes, optimizations and everything that comes with it.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
