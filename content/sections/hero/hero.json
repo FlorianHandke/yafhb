@@ -10,9 +10,9 @@
   },
   "title": "Welcome to my blog",
   "subtitle": {
-    "prefix": "Welcome to my ",
-    "highlight": "{Florian Handke}",
-    "suffix": " blog."
+    "prefix": "My name is ",
+    "highlight": "Florian Handke",
+    "suffix": "."
   },
   "description": "After several blogs this could - maybe - be the final one.",
   "socialProfiles": {
