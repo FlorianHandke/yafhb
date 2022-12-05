@@ -15,7 +15,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Yet Another Florian Handke Blog {YAFHB}" },
+    "logo": { "text": "{YAFHB}" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },

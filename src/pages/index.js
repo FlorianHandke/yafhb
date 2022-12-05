@@ -3,7 +3,6 @@ import {
   AboutSection,
   ContactSection,
   HeroSection,
-  InterestsSection,
   Page,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
@@ -15,8 +14,7 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About me" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <ContactSection sectionId="github" heading="Contact" />
       </Page>
     </>
   );
