@@ -4,7 +4,7 @@ description: "I hereby promise: This will be my last blog. "
 date: "2022-12-04"
 categories:
 - "Setup"
-  keywords:
+keywords:
 - "Blog"
 - "Writing"
 ---
